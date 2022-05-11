@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblio>
+    <Libro titulo="Libro 1"> Donde cantan...
+        <autor autor="autor 1">Alejandro Martinez</autor>
+        <autor autor="autor 2">Mario Peréz</autor>
+        <seccion titulo="Seccion 1">
+            <capitulo titulo="Capitulo 1">El comienzo
+                <parrafo titulo="parrafo 1">Había una vez......</parrafo>
+            </capitulo>
+            <capitulo titulo="Capitulo 2">El camino
+                <parrafo titulo="parrafo 2">Después de tanto....</parrafo>
+            </capitulo>
+        </seccion>
+    </Libro>
+    <Libro titulo="Libro 2"> El ruiseñor
+        <autor autor="autor 3">Armando Hernandéz
+        </autor>
+        <seccion titulo="Seccion 1"/>
+    </Libro>
+</biblio>
